@@ -3,6 +3,8 @@
 A fully responsive Netflix landing page clone built using HTML, CSS, and JavaScript.
 This project replicates the UI/UX of Netflix India with modern design, responsiveness, and interactive features.
 
+PROJECT URL: https://netflex-website.netlify.app/
+
 🚀 Live Features
 
 ✅ Responsive design (Desktop, Tablet, Mobile)
